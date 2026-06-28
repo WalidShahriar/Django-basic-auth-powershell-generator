@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Django Basic Auth Project Generator"
+type: software
+authors:
+  - family-names: "SHAHRIAR"
+    given-names: "MD WALID"
+    alias: "WalidShahriar"
+repository-code: "https://github.com/WalidShahriar/Django-basic-auth-powershell-generator"
+url: "https://github.com/WalidShahriar/Django-basic-auth-powershell-generator"
+license: Apache-2.0
+version: 1.1.0
+date-released: 2026-06-28
+abstract: "A beginner-friendly PowerShell generator for creating a basic Django project with registration, login, logout, templates, migrations, and an optional superuser."
+keywords:
+  - Django
+  - PowerShell
+  - authentication
+  - project generator
+  - beginner
